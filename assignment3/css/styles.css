@@ -1,0 +1,49 @@
+#header-nav {
+  border-radius: 0;
+  background-color: #71a06a;
+  border: 0;
+}
+
+#content {
+  background-image: linear-gradient(135deg,rgba(0,0,0,.03)25%,transparent 25%,transparent 50%,rgba(0,0,0,.03)50%,rgba(0,0,0,.03)75%,transparent 75%,transparent);
+  background-size: 16px 16px;
+  background-color: #fafcfd;
+  height: 1000px;
+}
+
+.navbar-brand {
+  color: #fff;
+}
+
+a.navbar-brand:hover, a.navbar-brand:focus {
+  text-decoration: none;
+  color: #fff;
+}
+
+.navbar-toggle {
+  background-color: #97de8d;
+}
+
+.navbar-toggle:hover {
+  background-color: #CAFBC3;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #1E7D10;
+}
+
+#nav-list {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: #3A3F51;
+}
+
+#nav-list a {
+  color: #BBC0CF;
+  text-align: center;
+}
+
+#nav-list a:hover {
+  background: #313645;
+  color: #fff;
+}
